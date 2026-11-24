@@ -2,7 +2,7 @@
 
 **Junior QA Engineer | Manual, API & Automation Testing**
 
-Soy QA Engineer con experiencia práctica en validación funcional de aplicaciones web y móviles, pruebas de APIs y automatización de interfaz. Cuento con formación previa en el área de la salud, coordinación operativa y soporte técnico bilingüe, esto me aporta un enfoque analítico, atención los detalles y comunicación clara para asegurar la calidad del software.
+Soy QA Engineer con experiencia práctica en validación funcional de aplicaciones web y móviles, pruebas de APIs y automatización de interfaz. Cuento con formación previa en el área de la salud, coordinación operativa y soporte técnico bilingüe, esto me aporta un enfoque analítico, atención a los detalles y comunicación clara para asegurar la calidad del software.
 
 ---
 
